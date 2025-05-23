@@ -1,7 +1,7 @@
 # 📚 my_nbooks
 
 **Coursework Archive from Data Science Studies**  
-This repository includes selected Jupyter Notebooks, datasets, and assignments created during my college data science coursework as part of completing my degree.
+This repository includes selected Jupyter Notebooks, datasets, and assignments created during my college data science coursework a few years back.
 
 While this repo reflects earlier work, it showcases foundational skills in:
 - Data analysis and preprocessing
